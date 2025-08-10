@@ -67,6 +67,10 @@
 
 <img width="494" height="390" alt="image" src="https://github.com/user-attachments/assets/9fd5d0bb-19ab-46cf-9d90-d8e30695be5e" />
 
+Логи из journalctl:
+
+<img width="1541" height="757" alt="image" src="https://github.com/user-attachments/assets/8255bb63-f488-40a2-ab16-fededc7674b0" />
+
 
 
 
