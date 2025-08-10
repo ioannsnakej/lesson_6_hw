@@ -71,6 +71,12 @@
 
 <img width="1541" height="757" alt="image" src="https://github.com/user-attachments/assets/8255bb63-f488-40a2-ab16-fededc7674b0" />
 
+Долго возился с выводом логов в /var/log/myapp/debug.log - решилось тем, что создал вручную папку myapp и файлы debug.log и error.log, сделал sudo systemctl restart rsyslog, повторно потрогал курлы
+и получил запись в debug.log
+
+<img width="1282" height="275" alt="image" src="https://github.com/user-attachments/assets/8fd45f0f-c0bb-465d-9314-d6e1ae99fc56" />
+
+
 
 
 
